@@ -1,16 +1,20 @@
-## Hi there 👋
+# Derek Okafor
 
-<!--
-**dokaf-ops/dokaf-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cluster reliability engineer in Ashburn, VA. Contract SRE on GPU training infrastructure.
 
-Here are some ideas to get you started:
+I work on keeping distributed GPU clusters running through multi-day training jobs. Most of my time goes to failure analysis, node remediation, fabric monitoring and keeping orchestration layers from quietly breaking things. Before this I did colocation work in Sterling and NOC work in Herndon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hometown is Northern Virginia, never really left. I have a small homelab with four used A6000s that I use to test tooling and break things on purpose.
+
+Currently interested in distributed systems, GPU cluster operations, network engineering, failure analysis and practical monitoring tooling.
+
+## Links
+
+- Site: [dokaf-ops.github.io](https://dokaf-ops.github.io/)
+- LinkedIn: [derek-okafor](https://www.linkedin.com/in/derek-okafor-2475b844a/)
+- Hacker News: [dokaf-ops](https://news.ycombinator.com/user?id=dokaf-ops)
+- Email: derekokafor1@gmail.com
+
+## Tools I use
+
+Linux, Kubernetes, Slurm, Python, Bash, Go, Ansible, Terraform, Prometheus, Grafana, DCGM, NCCL, InfiniBand, RDMA
